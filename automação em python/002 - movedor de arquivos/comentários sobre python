@@ -1,0 +1,13 @@
+#os em Python é uma biblioteca padrão muito útil quando se trata de interagir com o sistema operacional. Ele nos fornece uma série de funcionalidades para executar ações específicas, como navegar por diretórios, criar novos diretórios, executar comandos no terminal e obter informações do sistema.
+
+
+# r antes do caminho serve para evitar erros na leitura do caminho, e é importante escrever a \ antes do nome da pasta
+
+#os.listdir lista todos os arquivos dentro do diretório citado
+
+#nesse caso não foi necessário usar (caminho +"\mover")
+
+sempre buscar encontrar padrões nos arquivos para poder separá-los
+
+
+para mover um arquivo de lugar é só mudar o nome do caminho do arquivo. Ou seja, fizemos a inclusão dos arquivos em uma pasta mudando o caminho do arquivo, adicionando o nome da pasta antes do nome do arquivo
